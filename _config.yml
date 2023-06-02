@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Lê Văn Bắ
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Java Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://i.pinimg.com/originals/ca/67/5a/ca675ab4dae92a9ba4ddc651687c6448.jpg
 
 #
 # Flags below are optional
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: https://mail.google.com/mail/u/0/#inbox
+  facebook:https://www.facebook.com/Letubac99/
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: https://github.com/letubac
+  instagram: https://www.instagram.com/0n1_ch4n/
+  linkedin: https://www.linkedin.com/in/l%C3%AA-v%C4%83n-b%E1%BA%AFc-304529172/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: ririᵔ܁
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://www.youtube.com/channel/UCijOnVn3hs59NCaj1w0Gj6g
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
