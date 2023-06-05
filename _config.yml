@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Lê Văn Bắc
+name: Lê Tú Bắc - PurpleForest
 
 # Short bio or description (displayed in the header)
 description: Java Developer
@@ -18,15 +18,15 @@ avatar: https://i.pinimg.com/originals/ca/67/5a/ca675ab4dae92a9ba4ddc651687c6448
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: https://mail.google.com/mail/u/0/#inbox
+  email: 
   facebook: https://www.facebook.com/Letubac99/
   flickr:
   github: https://github.com/letubac
-  instagram: https://www.instagram.com/0n1_ch4n/
+  instagram: 
   linkedin: https://www.linkedin.com/in/l%C3%AA-v%C4%83n-b%E1%BA%AFc-304529172/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: ririᵔ܁
+  twitter: ܁
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: https://www.youtube.com/channel/UCijOnVn3hs59NCaj1w0Gj6g
   googleplus: # anything in your profile username that comes after plus.google.com/
